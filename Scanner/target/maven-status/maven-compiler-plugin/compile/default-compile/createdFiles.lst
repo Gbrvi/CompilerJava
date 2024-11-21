@@ -1,0 +1,5 @@
+com\mycompany\scanner\Main.class
+com\mycompany\scanner\Token.class
+com\mycompany\scanner\KeywordType.class
+com\mycompany\scanner\Scanner.class
+com\mycompany\scanner\TokenType.class
