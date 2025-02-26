@@ -1,0 +1,6 @@
+com\mycompany\analisadorsintatico\Parser$1.class
+com\mycompany\analisadorsintatico\Token.class
+com\mycompany\analisadorsintatico\Parser.class
+com\mycompany\analisadorsintatico\Scanner.class
+com\mycompany\analisadorsintatico\TokenType.class
+com\mycompany\analisadorsintatico\AnalisadorSintatico.class
