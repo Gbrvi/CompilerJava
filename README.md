@@ -2,8 +2,8 @@
 The project is to create a Compiler using **Java**. The code has a **Scanner** to analyse the tokens and the **Parser** check if it follows the grammar rules
 
 ## 🛠 How to execute
-**Scanner**: Change the Path of the file.txt
-**Parser**: Change the Path of the file.txt and execute the **Parse.java file**
+- **Scanner**: Change the Path of the file.txt
+- **Parser**: Change the Path of the file.txt and execute the **Parse.java file**
 
 ## 📚 The grammar 
 ```bash
